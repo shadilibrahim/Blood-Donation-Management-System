@@ -22,9 +22,8 @@
 
 
 
-Done by 
-
-Shadil Ibrahim 
-Mohasin Asif
-Farhan Thahir
-Rasal Benhar
+<h2>Done by</h2> 
+<li>Shadil Ibrahim</li> 
+<li>Mohasin Asif</li>
+<li>Farhan Thahir</li>
+<li>Rasal Benhar</li>
